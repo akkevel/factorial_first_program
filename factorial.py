@@ -8,4 +8,4 @@ while i <= start:
   ans = ans * i
   i = i + 1
 
-  print(ans, "factorial of", i-1)
+  print(ans, "is the factorial of", i-1)
